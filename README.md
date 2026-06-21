@@ -7,12 +7,12 @@ This project is a C++ console-based application that demonstrates problem-solvin
 - Add records
 - Display data
 - Manage input using CLI
-- Demonstrates use of STL and file handling (if used)
+- Demonstrates use of STL and file handling
 
 ## Tech Stack
 - C++
 - STL
-- File Handling (if applicable)
+- File Handling 
 
 ## How to Run
 ```bash
